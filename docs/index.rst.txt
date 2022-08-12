@@ -1,6 +1,15 @@
-Some key features:
+ASCIIGenome: Text only genome viewer!
+ASCIIGenome is a genome browser based on command line interface and designed for console terminals.
 
-Command line input and interaction, no graphical interface, minimal installation.
- Can load multiple files in various Can access remote files via URL or ftp address.
- Easy navigation and searching of features and sequence motifs and filtering options.
- Support for BS-Seq alignment.
+Contents:
+
+.. toctree::
+   :maxdepth: 3
+
+   description
+   installation
+   supported_io
+   usage
+   examples
+   faq
+   commandHelp
